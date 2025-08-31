@@ -242,4 +242,4 @@ The application gracefully handles missing API keys and provides fallback functi
 
 ---
 
-**Live Demo**: [Your deployed resume URL here]
+**Live Demo**: https://accomplished-contentment-production.up.railway.app
